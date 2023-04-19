@@ -12,6 +12,7 @@ return {
 	pro = {
 		comment = "",
 		selection = "",
+		currentline = "", -- selection == currentline
 		bglighter = "", -- Dracula.nvim will not be using this color.
 		bglight = "",-- Dracula.nvim will not be using this color.
 		bg = "",
@@ -21,6 +22,7 @@ return {
 	blade = {
 		comment = "",
 		selection = "",
+		currentline = "",
 		bglighter = "",
 		bglight = "",
 		bg = "",
@@ -30,6 +32,7 @@ return {
 	buffy = {
 		comment = "",
 		selection = "",
+		currentline = "",
 		bglighter = "",
 		bglight = "",
 		bg = "",
@@ -39,6 +42,7 @@ return {
 	lincoln = {
 		comment = "",
 		selection = "",
+		currentline = "",
 		bglighter = "",
 		bglight = "",
 		bg = "",
@@ -48,6 +52,7 @@ return {
 	morbius = {
 		comment = "",
 		selection = "",
+		currentline = "",
 		bglighter = "",
 		bglight = "",
 		bg = "",
@@ -57,6 +62,7 @@ return {
 	van_helsing = {
 		comment = "",
 		selection = "",
+		currentline = "",
 		bglighter = "", -- use this color as bg
 		bglight = "", -- use this color as bgdark
 		bg = "",
