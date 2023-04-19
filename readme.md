@@ -38,6 +38,6 @@ lua/draculapro/palette.lua file.
 - Pro
 - Blade
 - Buffy
-- Lincon
+- Lincoln
 - Morbius
 - Van Helsing

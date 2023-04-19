@@ -36,7 +36,7 @@ return {
 		bgdark = "",
 		bgdarker = "",
 	},
-	lincon = {
+	lincoln = {
 		comment = "",
 		selection = "",
 		bglighter = "",
