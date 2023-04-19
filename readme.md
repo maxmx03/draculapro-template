@@ -21,7 +21,7 @@ lua/draculapro/palette.lua file.
       })
 
       dracula.setup {
-        dracula_pro = true,
+        dracula_pro = draculapro,
         colors = draculapro.colors
       }
 
