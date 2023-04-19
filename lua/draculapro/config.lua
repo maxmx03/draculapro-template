@@ -2,7 +2,7 @@ local M = {}
 
 function M:new()
 	local config = {
-		theme = "default",
+		theme = "pro",
 		colors = {},
 		user_config = {},
 	}
