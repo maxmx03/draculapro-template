@@ -1,7 +1,6 @@
 return {
 	base = {
-		fg = "",
-		subtle = "",
+		fg = "#F8F8F2",
 		cyan = "",
 		green = "",
 		orange = "",
@@ -13,11 +12,10 @@ return {
 	pro = {
 		comment = "",
 		selection = "",
-		bglighter = "",
-		bglight = "",
+		bglighter = "", -- Dracula.nvim will not be using this color.
+		bglight = "",-- Dracula.nvim will not be using this color.
 		bg = "",
 		bgdark = "",
-		float_bg = "",
 		bgdarker = "",
 	},
 	blade = {
@@ -27,7 +25,6 @@ return {
 		bglight = "",
 		bg = "",
 		bgdark = "",
-		float_bg = "",
 		bgdarker = "",
 	},
 	buffy = {
@@ -60,8 +57,8 @@ return {
 	van_helsing = {
 		comment = "",
 		selection = "",
-		bglighter = "",
-		bglight = "",
+		bglighter = "", -- use this color as bgdark
+		bglight = "", -- use this color as bg
 		bg = "",
 		bgdark = "",
 		bgdarker = "",
