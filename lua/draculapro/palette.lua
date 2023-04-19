@@ -57,8 +57,8 @@ return {
 	van_helsing = {
 		comment = "",
 		selection = "",
-		bglighter = "", -- use this color as bgdark
-		bglight = "", -- use this color as bg
+		bglighter = "", -- use this color as bg
+		bglight = "", -- use this color as bgdark
 		bg = "",
 		bgdark = "",
 		bgdarker = "",
