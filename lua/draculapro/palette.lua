@@ -8,13 +8,21 @@ return {
 		purple = "",
 		red = "",
 		yellow = "",
+    sign_add = "", -- green
+    sign_changes = "", -- orange
+    sign_delete = "", -- red or purple
+    info = "", -- cyan
+    hint = "", -- cyan
+    error = "", -- red or purple
+    warning = "", -- orange
+    other = "", -- purple or cyan
 	},
 	pro = {
 		comment = "",
 		selection = "",
 		currentline = "", -- selection == currentline
-		bglighter = "", -- Dracula.nvim will not be using this color.
-		bglight = "",-- Dracula.nvim will not be using this color.
+		bglighter = "", -- optional
+		bglight = "",-- optional
 		bg = "",
 		bgdark = "",
 		bgdarker = "",
